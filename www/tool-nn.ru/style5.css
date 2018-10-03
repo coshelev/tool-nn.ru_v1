@@ -1,0 +1,33 @@
+.div_header1{
+    /* background: #fc0; */
+    text-align:center;    
+}
+
+.div_header2{
+    text-align:center;    
+}
+
+.class_div_footer{
+    background: #fc0;
+    text-align:center; 
+}
+
+
+.div_test{
+  background: white;
+  width: 21cm;
+  height: 29.7cm;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 0.5cm;
+  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+}
+
+.rent{
+  background: #fc0;   
+  text-align:center;   
+}
+
+.class_div_price{
+    text-align:center;    
+}
